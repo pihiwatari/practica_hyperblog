@@ -1,7 +1,6 @@
-esta es una madre de esas
+Proyecto de prueba,
 
-ya cambie esta chingadera, despues de cambiar el email
+Dato 1: Edad-29 años.
+Dato 2: Residencia - Guadalajara.
 
-seguimos agreando pendejadas a este archivo.
-
-caca
+Empezamos
