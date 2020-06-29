@@ -3,6 +3,7 @@ Proyecto de prueba,
 Dato 1: Edad-29 años.
 Dato 2: Residencia - Guadalajara.
 
-Empezamos
+Empezamos.
 
-Estamos continuando con la información, agregando datos a lo idiota.
+Dato 3: Trabaja en - Flex.
+Dato 4: Puesto - Inge de diseño.
