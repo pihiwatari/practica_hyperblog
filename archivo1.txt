@@ -4,3 +4,5 @@ Dato 1: Edad-29 años.
 Dato 2: Residencia - Guadalajara.
 
 Empezamos
+
+Estamos continuando con la información, agregando datos a lo idiota.
